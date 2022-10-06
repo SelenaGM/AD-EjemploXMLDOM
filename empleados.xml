@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<Empleados>
+    <empleado dni="123456789">
+        <id>1</id>
+        <apellido>Fernandez</apellido>
+        <dep>10</dep>
+        <salario>1000.45</salario>
+    </empleado>
+    <empleado dni="987654321">
+        <id>2</id>
+        <apellido>Gil</apellido>
+        <dep>20</dep>
+        <salario>2400.6</salario>
+    </empleado>
+</Empleados>

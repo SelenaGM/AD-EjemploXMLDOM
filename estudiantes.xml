@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><estudiantes><estudiante dni="123456789">
+<nombre>Selena</nombre>
+<nota>10</nota>
+</estudiante>
+
+<estudiante dni="987654321">
+<nombre>Vicent</nombre>
+<nota>1</nota>
+</estudiante>
+</estudiantes>
